@@ -1,0 +1,71 @@
+
+.splash{
+  width:100%;
+  top:0px;
+  margin: 0px;
+  padding: 0px;
+}
+body{
+  background-color: #BFC1CC;
+}
+nav{
+  color: #00303F;
+  margin: center;
+  width: 100%;
+  font-family:lato;
+  font-size: 2.5em;
+  display:flex;
+    justify-content: space-around;
+    align-items:center;
+  position:absolute;
+  top:2.5em;
+  background-color: rgba(255,255,255,0.6);
+  padding:.5em;
+}
+h1, h2{
+  font-size: 2em;
+  font-family:lato;
+  width: 75%;
+  margin: auto;
+  color:#00303F;
+  text-align: center;
+  padding-left: 2em;
+  padding-right: 2em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  margin-top:1em;
+  border-top-style: solid;
+  border-top-width: medium;
+  border-top-color: #DCAE1D ;
+  border-bottom-style: solid;
+  border-bottom-width: medium;
+  border-bottom-color:#DCAE1D ;
+}
+.row1{
+  margin-left: 10%;
+  height:10em;
+
+}
+.row2{
+  margin-left: 10%;
+  height:10em;
+  }
+.portpic{
+  width:20%;
+  height:10em;
+  text-align: center;
+}
+.pictures{
+  margin-top: 0px;
+}
+h2{
+  border-top: none;
+}
+footer{
+  background-color: #00303F;
+  color:#DCAE1D;
+  margin-top: 8em;
+  text-align: center;
+  height:2em;
+  padding-top: .5em;
+}
